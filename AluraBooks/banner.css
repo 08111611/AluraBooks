@@ -32,3 +32,17 @@
     background: url("../img/Lupa.svg") no-repeat;
     background-position: 1em;
 }
+
+.swiper-pagination {
+    position: initial;
+    margin: 0.5 em 0;
+}
+
+.card__botoes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.botoes {
+    display: flex;
+}

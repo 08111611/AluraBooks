@@ -16,3 +16,9 @@
 .swiper-button-next {
     display none;
 }
+
+.card__descricao {
+    display: flex;
+    justify-content: space-between;
+    margin: 0.5em;
+}
